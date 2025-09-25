@@ -1,0 +1,8 @@
+# Rencana Proyek: membuat aplikasi lampu otomatis berbasis android
+
+- Tujuan
+Membuat aplikasi Android yang dapat mengontrol lampu secara otomatis berbasis aplikai dan perintah manual.
+
+- Tools : Android Studio (Java/Kotlin), Firebase Realtime Database, ESP8266/ESP32 (opsional untuk IoT)
+
+- Fitur Utama: Kontrol lampu manual lewat aplikasi, Otomatisasi lampu dengan sensor, Penjadwalan lampu (timer), Monitoring status lampu secara real-time
